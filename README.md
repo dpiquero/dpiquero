@@ -214,10 +214,11 @@ Este perfil pretende reflejar mi evolución de forma progresiva:
 
 # 📫 Contacto
 
-📧 **[dpiquero@uoc.edu](mailto:dpiquero@uoc.edu)**
+📧 [dpiquero@uoc.edu](mailto:dpiquero@uoc.edu)
 
-🔗 LinkedIn: *próximamente*
-📱 Renta Inversor: *Google Play*
+🔗 [LinkedIn](https://www.linkedin.com/in/david-piquero-iglesias-4320a9406)
+
+📱 [Renta Inversor en Google Play](https://play.google.com/store/apps/details?id=com.signalstudio.rentainversor)
 
 ---
 
